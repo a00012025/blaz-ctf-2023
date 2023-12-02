@@ -1,0 +1,23 @@
+{
+  "name": "blaz-ctf-2023",
+  "version": "1.0.0",
+  "description": "**Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.2",
+    "bignumber.js": "^9.1.2",
+    "eth-typed-data": "0.1.0-beta.0",
+    "ethereumjs-util": "^7.1.5",
+    "ethers": "^6.9.0",
+    "typescript": "^5.3.2"
+  }
+}
