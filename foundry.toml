@@ -7,6 +7,6 @@ solc = "0.8.20"
 fs_permissions = [{ access = 'read-write', path = '/'}]
 
 [rpc_endpoints]
-paradigm = "${CTF_RPC_URL}"
+paradigm = "${U}"
 
 # See more config options https://github.com/foundry-rs/foundry/blob/master/crates/config/README.md#all-options
